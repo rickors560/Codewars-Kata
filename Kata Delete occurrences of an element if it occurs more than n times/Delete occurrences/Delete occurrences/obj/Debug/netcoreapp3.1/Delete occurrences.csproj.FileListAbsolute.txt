@@ -1,0 +1,12 @@
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.exe
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.deps.json
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.runtimeconfig.json
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.runtimeconfig.dev.json
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.dll
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\bin\Debug\netcoreapp3.1\Delete occurrences.pdb
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.AssemblyInfoInputs.cache
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.AssemblyInfo.cs
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.csproj.CoreCompileInputs.cache
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.dll
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.pdb
+C:\Kata Delete occurrences of an element if it occurs more than n times\Delete occurrences\Delete occurrences\obj\Debug\netcoreapp3.1\Delete occurrences.genruntimeconfig.cache
