@@ -1,0 +1,13 @@
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.exe
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.deps.json
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.dll
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\bin\Debug\netcoreapp3.1\RomanNumeralsHelperKata.pdb
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.dll
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.pdb
+C:\Users\S S INFOTECH\source\repos\RomanNumeralsHelperKata\RomanNumeralsHelperKata\obj\Debug\netcoreapp3.1\RomanNumeralsHelperKata.genruntimeconfig.cache
