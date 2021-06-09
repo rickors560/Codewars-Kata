@@ -1,0 +1,16 @@
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.exe
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.deps.json
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.dll
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\ref\TheMillionthFibonacciKata.dll
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\bin\Debug\net5.0\TheMillionthFibonacciKata.pdb
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.dll
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\ref\TheMillionthFibonacciKata.dll
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.pdb
+C:\Users\S S INFOTECH\source\repos\TheMillionthFibonacciKata\TheMillionthFibonacciKata\obj\Debug\net5.0\TheMillionthFibonacciKata.genruntimeconfig.cache
