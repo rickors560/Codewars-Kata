@@ -1,0 +1,16 @@
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.exe
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.deps.json
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.dll
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\ref\AddingBigNumbersKata.dll
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\bin\Debug\net5.0\AddingBigNumbersKata.pdb
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.dll
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\ref\AddingBigNumbersKata.dll
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.pdb
+C:\Users\S S INFOTECH\source\repos\AddingBigNumbersKata\AddingBigNumbersKata\obj\Debug\net5.0\AddingBigNumbersKata.genruntimeconfig.cache
