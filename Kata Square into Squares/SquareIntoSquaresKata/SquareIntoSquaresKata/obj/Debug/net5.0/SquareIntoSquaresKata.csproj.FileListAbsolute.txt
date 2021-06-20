@@ -1,0 +1,16 @@
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.csprojAssemblyReference.cache
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.AssemblyInfoInputs.cache
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.AssemblyInfo.cs
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.csproj.CoreCompileInputs.cache
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.exe
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.deps.json
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.runtimeconfig.json
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.runtimeconfig.dev.json
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.dll
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\ref\SquareIntoSquaresKata.dll
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\bin\Debug\net5.0\SquareIntoSquaresKata.pdb
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.dll
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\ref\SquareIntoSquaresKata.dll
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.pdb
+C:\Users\S S INFOTECH\source\repos\SquareIntoSquaresKata\SquareIntoSquaresKata\obj\Debug\net5.0\SquareIntoSquaresKata.genruntimeconfig.cache
